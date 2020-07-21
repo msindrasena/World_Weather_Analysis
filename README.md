@@ -1,4 +1,4 @@
-# Africa Trip Itinerary
+# USA Itinerary
 
 ## Information on the Project
 We collected a random list of latitutdes and longitutdes for 1,500 cities around the world, including their weather. Customers are able to filter choices for rainfall, snowfall, high and low temperatures for different cities. We then looked at what hotels were in the areas they selected in their filter.
